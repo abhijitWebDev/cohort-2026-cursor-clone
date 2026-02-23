@@ -49,3 +49,11 @@ open index.html       # macOS
 - CSS3 (Flexbox, CSS Grid)
 - Font Awesome 4.7 (via CDN) for icons
 - SVG icons (inline)
+
+
+## Live Demo
+
+Check out the live version of this project hosted on Vercel:
+
+[Cursor Clone Live](https://cohort-2026-cursor-clone.vercel.app/)
+
